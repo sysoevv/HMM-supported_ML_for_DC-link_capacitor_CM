@@ -1,7 +1,7 @@
 %%                 =|>- MIAMI POWER ELECTRONICS LABORATORY               %%
 %  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  %
 %  MATLAB CODE FOR HIDDEN MARKOV MODEL-ADDED MACHINE LEARNING
-%  FOR DC-LINK CAPACITOR AGE CLASSIFICATION 
+%  FOR DC-LINK CAPACITOR AGE CLASSIFICATION  
 %  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  %
 %  AUTHOR                                                            DATE %
 %  Viktoriia Sysoeva                                           05/21/2020 %

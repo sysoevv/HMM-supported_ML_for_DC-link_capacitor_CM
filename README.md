@@ -1,4 +1,4 @@
-# HMM-supported ML for DC-link capacitor age classification
+# HMM-supported ML for DC-link capacitor CM
 Software implementation of Condition Monitoring for DC-link capacitors in MATLAB.
 
 This code implements the Condition Monitoring approach introduced in the Master's Thesis "HIDDEN MARKOV MODEL-SUPPORTED MACHINE LEARNING FOR CONDITION MONITORING OF DC-LINK CAPACITORS".
